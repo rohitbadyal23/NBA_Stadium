@@ -1,0 +1,37 @@
+
+.header {
+    overflow: hidden;
+    background-color:#008080;
+    padding: 20px 10px;
+}
+
+.header a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.header a.active {
+    background-color: #66b2b2;
+    color: white;
+}
+
+.header-right {
+    float: right;
+}
+
+.container {
+    color: 	#008080;
+    text-align: center;
+}
